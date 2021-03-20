@@ -25,6 +25,7 @@ brew install iterm2
 brew install bettertouchtool
 brew install steam
 brew install visual-studio-code
+brew install discord
 # brew install audacity
 # brew install google-chrome
 # brew install java
