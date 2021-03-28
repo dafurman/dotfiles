@@ -28,6 +28,7 @@ brew install visual-studio-code
 brew install discord
 brew install sourcetree
 brew install sf-symbols
+brew install fastlane
 # brew install audacity
 # brew install google-chrome
 # brew install java
