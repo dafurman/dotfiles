@@ -23,17 +23,18 @@ brew install mas
 brew install swiftlint
 brew install iterm2
 brew install bettertouchtool
-brew install steam
 brew install visual-studio-code
-brew install discord
 brew install sourcetree
 brew install sf-symbols
 brew install fastlane
+brew install sublime-text
+brew install google-chrome
+
+# Personal
+brew install steam
+brew install discord
 # brew install audacity
-# brew install google-chrome
-# brew install java
 # brew install icons8
-# brew install spotify
 
 # Remove outdated versions from the cellar.
 brew cleanup
