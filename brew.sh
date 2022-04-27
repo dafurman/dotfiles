@@ -29,6 +29,7 @@ brew install sf-symbols
 brew install fastlane
 brew install sublime-text
 brew install google-chrome
+brew install robotsandpencils/made/xcodes
 
 # Personal
 brew install steam
